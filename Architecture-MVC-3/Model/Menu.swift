@@ -1,6 +1,6 @@
 //
 //  Menu.swift
-//  MVC-Storyboard-2
+//  Architecture-MVC-3
 //
 //  Created by ruslan on 06.02.2022.
 //

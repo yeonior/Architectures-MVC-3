@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A22AFCA827149B99001FE625 /* MVC-Storyboard-2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MVC-Storyboard-2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A22AFCA827149B99001FE625 /* Architecture-MVC-3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Architecture-MVC-3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A22AFCAB27149B99001FE625 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A22AFCAD27149B99001FE625 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		A22AFCAF27149B99001FE625 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		A22AFC9F27149B99001FE625 = {
 			isa = PBXGroup;
 			children = (
-				A22AFCAA27149B99001FE625 /* MVC-Storyboard-2 */,
+				A22AFCAA27149B99001FE625 /* Architecture-MVC-3 */,
 				A22AFCA927149B99001FE625 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 		A22AFCA927149B99001FE625 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A22AFCA827149B99001FE625 /* MVC-Storyboard-2.app */,
+				A22AFCA827149B99001FE625 /* Architecture-MVC-3.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A22AFCAA27149B99001FE625 /* MVC-Storyboard-2 */ = {
+		A22AFCAA27149B99001FE625 /* Architecture-MVC-3 */ = {
 			isa = PBXGroup;
 			children = (
 				A22AFCAB27149B99001FE625 /* AppDelegate.swift */,
@@ -72,7 +72,7 @@
 				A22AFCB627149B99001FE625 /* LaunchScreen.storyboard */,
 				A22AFCB927149B99001FE625 /* Info.plist */,
 			);
-			path = "MVC-Storyboard-2";
+			path = "Architecture-MVC-3";
 			sourceTree = "<group>";
 		};
 		A22AFCC127149C30001FE625 /* View */ = {
@@ -103,9 +103,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A22AFCA727149B99001FE625 /* MVC-Storyboard-2 */ = {
+		A22AFCA727149B99001FE625 /* Architecture-MVC-3 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A22AFCBC27149B99001FE625 /* Build configuration list for PBXNativeTarget "MVC-Storyboard-2" */;
+			buildConfigurationList = A22AFCBC27149B99001FE625 /* Build configuration list for PBXNativeTarget "Architecture-MVC-3" */;
 			buildPhases = (
 				A22AFCA427149B99001FE625 /* Sources */,
 				A22AFCA527149B99001FE625 /* Frameworks */,
@@ -115,9 +115,9 @@
 			);
 			dependencies = (
 			);
-			name = "MVC-Storyboard-2";
+			name = "Architecture-MVC-3";
 			productName = "MVC-Storyboard-2";
-			productReference = A22AFCA827149B99001FE625 /* MVC-Storyboard-2.app */;
+			productReference = A22AFCA827149B99001FE625 /* Architecture-MVC-3.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -134,7 +134,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A22AFCA327149B99001FE625 /* Build configuration list for PBXProject "MVC-Storyboard-2" */;
+			buildConfigurationList = A22AFCA327149B99001FE625 /* Build configuration list for PBXProject "Architecture-MVC-3" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -147,7 +147,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A22AFCA727149B99001FE625 /* MVC-Storyboard-2 */,
+				A22AFCA727149B99001FE625 /* Architecture-MVC-3 */,
 			);
 		};
 /* End PBXProject section */
@@ -324,12 +324,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = U3JHK4U826;
-				INFOPLIST_FILE = "MVC-Storyboard-2/Info.plist";
+				INFOPLIST_FILE = "Architecture-MVC-3/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "YeoCompany.MVC-Storyboard-2";
+				PRODUCT_BUNDLE_IDENTIFIER = "YeoCompany.Architecture-MVC-3";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -343,12 +343,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = U3JHK4U826;
-				INFOPLIST_FILE = "MVC-Storyboard-2/Info.plist";
+				INFOPLIST_FILE = "Architecture-MVC-3/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "YeoCompany.MVC-Storyboard-2";
+				PRODUCT_BUNDLE_IDENTIFIER = "YeoCompany.Architecture-MVC-3";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -358,7 +358,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A22AFCA327149B99001FE625 /* Build configuration list for PBXProject "MVC-Storyboard-2" */ = {
+		A22AFCA327149B99001FE625 /* Build configuration list for PBXProject "Architecture-MVC-3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A22AFCBA27149B99001FE625 /* Debug */,
@@ -367,7 +367,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A22AFCBC27149B99001FE625 /* Build configuration list for PBXNativeTarget "MVC-Storyboard-2" */ = {
+		A22AFCBC27149B99001FE625 /* Build configuration list for PBXNativeTarget "Architecture-MVC-3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A22AFCBD27149B99001FE625 /* Debug */,

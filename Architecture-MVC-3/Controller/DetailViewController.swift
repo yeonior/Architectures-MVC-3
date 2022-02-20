@@ -1,6 +1,6 @@
 //
 //  DetailViewController.swift
-//  MVC-Storyboard-2
+//  Architecture-MVC-3
 //
 //  Created by Ruslan on 06.02.2022.
 //

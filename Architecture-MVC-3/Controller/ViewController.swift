@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  MVC-Storyboard-2
+//  Architecture-MVC-3
 //
 //  Created by ruslan on 11.10.2021.
 //
